@@ -3,9 +3,13 @@
 ### backend
 
 to run-
-``.\mvn.cmd spring-boot:run``
+```bash
+.\mvn.cmd spring-boot:run
+```
 
 ### frontend
 
 to run-
-`` npm start``
+```bash
+npm start
+```

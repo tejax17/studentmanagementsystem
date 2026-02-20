@@ -4,12 +4,12 @@
 
 to run-
 ```bash
-.\mvn.cmd spring-boot:run   --save use-clipboard-copy
+.\mvn.cmd spring-boot:run
 ```
 
 ### frontend
 
 to run-
 ```bash
-npm start   --save use-clipboard-copy
+npm start
 ```
